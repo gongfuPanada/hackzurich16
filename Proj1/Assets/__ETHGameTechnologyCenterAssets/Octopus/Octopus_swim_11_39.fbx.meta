@@ -236,7 +236,7 @@ ModelImporter:
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleRotations: 1
+    resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
     animationImportErrors: 
@@ -249,7 +249,231 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 11
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: CTRL_global
+        weight: 1
+      - path: CTRL_global/CTRL_COG
+        weight: 1
+      - path: CTRL_global/JNT_root
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/GRP_JNT_l_cheek
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/GRP_JNT_l_cheek/JNT_l_cheek
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/GRP_JNT_r_cheek
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/GRP_JNT_r_cheek/JNT_r_cheek
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_head_END
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_head_limp1
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_head_limp1/JNT_head_limp2
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_head_limp1/JNT_head_limp2/JNT_head_limp_END
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_jaw
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_jaw/JNT_l_mouth_down
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_jaw/JNT_mouth_down
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_jaw/JNT_r_mouth_down
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_eyeBrow_in
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_eyeBrow_mid
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_eyeBrow_out
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_eyelid_down
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_eyelid_down/polySurface5
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_eyelid_up
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_eyelid_up/polySurface1
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_mouth_up
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_pupil
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_l_pupil/polySurface4
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_mouth_up
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_eyeBrow_in
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_eyeBrow_mid
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_eyeBrow_out
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_eyelid_down
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_eyelid_down/polySurface9
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_eyelid_up
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_eyelid_up/polySurface6
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_mouth_up
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_pupil
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/JNT_r_pupil/polySurface8
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/polySurface3
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_hip/JNT_chest/JNT_neck/JNT_l_head/polySurface7
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_frontArm_1
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_frontArm_1/JNT_l_frontArm_2
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_frontArm_1/JNT_l_frontArm_2/JNT_l_frontArm_3
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_frontArm_1/JNT_l_frontArm_2/JNT_l_frontArm_3/JNT_l_frontArm_4
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_frontArm_1/JNT_l_frontArm_2/JNT_l_frontArm_3/JNT_l_frontArm_4/JNT_l_frontArm_5
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_frontArm_1/JNT_l_frontArm_2/JNT_l_frontArm_3/JNT_l_frontArm_4/JNT_l_frontArm_5/JNT_l_frontArm_6
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_frontArm_1/JNT_l_frontArm_2/JNT_l_frontArm_3/JNT_l_frontArm_4/JNT_l_frontArm_5/JNT_l_frontArm_6/JNT_l_frontArm_7
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_frontArm_1/JNT_l_frontArm_2/JNT_l_frontArm_3/JNT_l_frontArm_4/JNT_l_frontArm_5/JNT_l_frontArm_6/JNT_l_frontArm_7/JNT_l_frontArm_8
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_frontArm_1/JNT_l_frontArm_2/JNT_l_frontArm_3/JNT_l_frontArm_4/JNT_l_frontArm_5/JNT_l_frontArm_6/JNT_l_frontArm_7/JNT_l_frontArm_8/JNT_l_frontArm_END
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_rearArm_1
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_rearArm_1/JNT_l_rearArm_2
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_rearArm_1/JNT_l_rearArm_2/JNT_l_rearArm_3
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_rearArm_1/JNT_l_rearArm_2/JNT_l_rearArm_3/JNT_l_rearArm_4
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_rearArm_1/JNT_l_rearArm_2/JNT_l_rearArm_3/JNT_l_rearArm_4/JNT_l_rearArm_5
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_rearArm_1/JNT_l_rearArm_2/JNT_l_rearArm_3/JNT_l_rearArm_4/JNT_l_rearArm_5/JNT_l_rearArm_6
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_rearArm_1/JNT_l_rearArm_2/JNT_l_rearArm_3/JNT_l_rearArm_4/JNT_l_rearArm_5/JNT_l_rearArm_6/JNT_l_rearArm_7
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_rearArm_1/JNT_l_rearArm_2/JNT_l_rearArm_3/JNT_l_rearArm_4/JNT_l_rearArm_5/JNT_l_rearArm_6/JNT_l_rearArm_7/JNT_l_rearArm_8
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_rearArm_1/JNT_l_rearArm_2/JNT_l_rearArm_3/JNT_l_rearArm_4/JNT_l_rearArm_5/JNT_l_rearArm_6/JNT_l_rearArm_7/JNT_l_rearArm_8/JNT_l_rearArm_END
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_sideArm_1
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_sideArm_1/JNT_l_sideArm_2
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_sideArm_1/JNT_l_sideArm_2/JNT_l_sideArm_3
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_sideArm_1/JNT_l_sideArm_2/JNT_l_sideArm_3/JNT_l_sideArm_4
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_sideArm_1/JNT_l_sideArm_2/JNT_l_sideArm_3/JNT_l_sideArm_4/JNT_l_sideArm_5
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_sideArm_1/JNT_l_sideArm_2/JNT_l_sideArm_3/JNT_l_sideArm_4/JNT_l_sideArm_5/JNT_l_sideArm_6
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_sideArm_1/JNT_l_sideArm_2/JNT_l_sideArm_3/JNT_l_sideArm_4/JNT_l_sideArm_5/JNT_l_sideArm_6/JNT_l_sideArm_7
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_sideArm_1/JNT_l_sideArm_2/JNT_l_sideArm_3/JNT_l_sideArm_4/JNT_l_sideArm_5/JNT_l_sideArm_6/JNT_l_sideArm_7/JNT_l_sideArm_8
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_l_sideArm_1/JNT_l_sideArm_2/JNT_l_sideArm_3/JNT_l_sideArm_4/JNT_l_sideArm_5/JNT_l_sideArm_6/JNT_l_sideArm_7/JNT_l_sideArm_8/JNT_l_sideArm_END
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_frontArm_1
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_frontArm_1/JNT_r_frontArm_2
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_frontArm_1/JNT_r_frontArm_2/JNT_r_frontArm_3
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_frontArm_1/JNT_r_frontArm_2/JNT_r_frontArm_3/JNT_r_frontArm_4
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_frontArm_1/JNT_r_frontArm_2/JNT_r_frontArm_3/JNT_r_frontArm_4/JNT_r_frontArm_5
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_frontArm_1/JNT_r_frontArm_2/JNT_r_frontArm_3/JNT_r_frontArm_4/JNT_r_frontArm_5/JNT_r_frontArm_6
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_frontArm_1/JNT_r_frontArm_2/JNT_r_frontArm_3/JNT_r_frontArm_4/JNT_r_frontArm_5/JNT_r_frontArm_6/JNT_r_frontArm_7
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_frontArm_1/JNT_r_frontArm_2/JNT_r_frontArm_3/JNT_r_frontArm_4/JNT_r_frontArm_5/JNT_r_frontArm_6/JNT_r_frontArm_7/JNT_r_frontArm_8
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_frontArm_1/JNT_r_frontArm_2/JNT_r_frontArm_3/JNT_r_frontArm_4/JNT_r_frontArm_5/JNT_r_frontArm_6/JNT_r_frontArm_7/JNT_r_frontArm_8/JNT_r_frontArm_END
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_rearArm_1
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_rearArm_1/JNT_r_rearArm_2
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_rearArm_1/JNT_r_rearArm_2/JNT_r_rearArm_3
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_rearArm_1/JNT_r_rearArm_2/JNT_r_rearArm_3/JNT_r_rearArm_4
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_rearArm_1/JNT_r_rearArm_2/JNT_r_rearArm_3/JNT_r_rearArm_4/JNT_r_rearArm_5
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_rearArm_1/JNT_r_rearArm_2/JNT_r_rearArm_3/JNT_r_rearArm_4/JNT_r_rearArm_5/JNT_r_rearArm_6
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_rearArm_1/JNT_r_rearArm_2/JNT_r_rearArm_3/JNT_r_rearArm_4/JNT_r_rearArm_5/JNT_r_rearArm_6/JNT_r_rearArm_7
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_rearArm_1/JNT_r_rearArm_2/JNT_r_rearArm_3/JNT_r_rearArm_4/JNT_r_rearArm_5/JNT_r_rearArm_6/JNT_r_rearArm_7/JNT_r_rearArm_8
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_rearArm_1/JNT_r_rearArm_2/JNT_r_rearArm_3/JNT_r_rearArm_4/JNT_r_rearArm_5/JNT_r_rearArm_6/JNT_r_rearArm_7/JNT_r_rearArm_8/JNT_r_rearArm_END
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_sideArm_1
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_sideArm_1/JNT_r_sideArm_2
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_sideArm_1/JNT_r_sideArm_2/JNT_r_sideArm_3
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_sideArm_1/JNT_r_sideArm_2/JNT_r_sideArm_3/JNT_r_sideArm_4
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_sideArm_1/JNT_r_sideArm_2/JNT_r_sideArm_3/JNT_r_sideArm_4/JNT_r_sideArm_5
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_sideArm_1/JNT_r_sideArm_2/JNT_r_sideArm_3/JNT_r_sideArm_4/JNT_r_sideArm_5/JNT_r_sideArm_6
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_sideArm_1/JNT_r_sideArm_2/JNT_r_sideArm_3/JNT_r_sideArm_4/JNT_r_sideArm_5/JNT_r_sideArm_6/JNT_r_sideArm_7
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_sideArm_1/JNT_r_sideArm_2/JNT_r_sideArm_3/JNT_r_sideArm_4/JNT_r_sideArm_5/JNT_r_sideArm_6/JNT_r_sideArm_7/JNT_r_sideArm_8
+        weight: 1
+      - path: CTRL_global/JNT_root/JNT_r_sideArm_1/JNT_r_sideArm_2/JNT_r_sideArm_3/JNT_r_sideArm_4/JNT_r_sideArm_5/JNT_r_sideArm_6/JNT_r_sideArm_7/JNT_r_sideArm_8/JNT_r_sideArm_END
+        weight: 1
+      - path: GEO_body
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
     isReadable: 1
   meshes:
     lODScreenPercentages: []
