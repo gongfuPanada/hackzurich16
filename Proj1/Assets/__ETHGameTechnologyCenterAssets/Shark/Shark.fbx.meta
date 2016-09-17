@@ -1,0 +1,342 @@
+fileFormatVersion: 2
+guid: b758a357703450e47bf221d0d71cd52d
+timeCreated: 1470218671
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CTRL_JNT_l_root_FK
+    100002: GRP_CTRL_JNT_l_root_FK
+    100004: JNT_jaw1
+    100006: JNT_l_eye
+    100008: JNT_l_fin1
+    100010: JNT_l_fin2
+    100012: JNT_l_fin3
+    100014: JNT_l_root
+    100016: JNT_r_eye
+    100018: JNT_r_fin1
+    100020: JNT_r_fin2
+    100022: JNT_r_fin3
+    100024: JNT_tail1
+    100026: JNT_tail2
+    100028: JNT_tail3
+    100030: JNT_tail4
+    100032: JNT_tail5
+    100034: Shark
+    100036: //RootNode
+    100038: Shark_Eye_L
+    100040: Shark_Eye_R
+    400000: CTRL_JNT_l_root_FK
+    400002: GRP_CTRL_JNT_l_root_FK
+    400004: JNT_jaw1
+    400006: JNT_l_eye
+    400008: JNT_l_fin1
+    400010: JNT_l_fin2
+    400012: JNT_l_fin3
+    400014: JNT_l_root
+    400016: JNT_r_eye
+    400018: JNT_r_fin1
+    400020: JNT_r_fin2
+    400022: JNT_r_fin3
+    400024: JNT_tail1
+    400026: JNT_tail2
+    400028: JNT_tail3
+    400030: JNT_tail4
+    400032: JNT_tail5
+    400034: Shark
+    400036: //RootNode
+    400038: Shark_Eye_L
+    400040: Shark_Eye_R
+    2300000: Shark_Eye_L
+    2300002: Shark_Eye_R
+    3300000: Shark_Eye_L
+    3300002: Shark_Eye_R
+    4300000: Shark
+    4300002: Shark_Eye_L
+    4300004: Shark_Eye_R
+    7400000: Swim
+    7400002: Attack
+    7400004: GetHit
+    9500000: //RootNode
+    13700000: Shark
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Swim
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_CTRL_JNT_l_root_FK
+        weight: 1
+      - path: GRP_CTRL_JNT_l_root_FK/CTRL_JNT_l_root_FK
+        weight: 1
+      - path: JNT_l_root
+        weight: 1
+      - path: JNT_l_root/JNT_jaw1
+        weight: 1
+      - path: JNT_l_root/JNT_l_eye
+        weight: 1
+      - path: JNT_l_root/JNT_l_eye/Shark_Eye_L
+        weight: 1
+      - path: JNT_l_root/JNT_l_fin1
+        weight: 1
+      - path: JNT_l_root/JNT_l_fin1/JNT_l_fin2
+        weight: 1
+      - path: JNT_l_root/JNT_l_fin1/JNT_l_fin2/JNT_l_fin3
+        weight: 1
+      - path: JNT_l_root/JNT_r_eye
+        weight: 1
+      - path: JNT_l_root/JNT_r_eye/Shark_Eye_R
+        weight: 1
+      - path: JNT_l_root/JNT_r_fin1
+        weight: 1
+      - path: JNT_l_root/JNT_r_fin1/JNT_r_fin2
+        weight: 1
+      - path: JNT_l_root/JNT_r_fin1/JNT_r_fin2/JNT_r_fin3
+        weight: 1
+      - path: JNT_l_root/JNT_tail1
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2/JNT_tail3
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2/JNT_tail3/JNT_tail4
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2/JNT_tail3/JNT_tail4/JNT_tail5
+        weight: 1
+      - path: Shark
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Attack
+      takeName: Take 001
+      firstFrame: 81
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.35936108
+        functionName: NewEvent
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_CTRL_JNT_l_root_FK
+        weight: 1
+      - path: GRP_CTRL_JNT_l_root_FK/CTRL_JNT_l_root_FK
+        weight: 1
+      - path: JNT_l_root
+        weight: 1
+      - path: JNT_l_root/JNT_jaw1
+        weight: 1
+      - path: JNT_l_root/JNT_l_eye
+        weight: 1
+      - path: JNT_l_root/JNT_l_eye/Shark_Eye_L
+        weight: 1
+      - path: JNT_l_root/JNT_l_fin1
+        weight: 1
+      - path: JNT_l_root/JNT_l_fin1/JNT_l_fin2
+        weight: 1
+      - path: JNT_l_root/JNT_l_fin1/JNT_l_fin2/JNT_l_fin3
+        weight: 1
+      - path: JNT_l_root/JNT_r_eye
+        weight: 1
+      - path: JNT_l_root/JNT_r_eye/Shark_Eye_R
+        weight: 1
+      - path: JNT_l_root/JNT_r_fin1
+        weight: 1
+      - path: JNT_l_root/JNT_r_fin1/JNT_r_fin2
+        weight: 1
+      - path: JNT_l_root/JNT_r_fin1/JNT_r_fin2/JNT_r_fin3
+        weight: 1
+      - path: JNT_l_root/JNT_tail1
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2/JNT_tail3
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2/JNT_tail3/JNT_tail4
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2/JNT_tail3/JNT_tail4/JNT_tail5
+        weight: 1
+      - path: Shark
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: GetHit
+      takeName: Take 001
+      firstFrame: 131
+      lastFrame: 229
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GRP_CTRL_JNT_l_root_FK
+        weight: 1
+      - path: GRP_CTRL_JNT_l_root_FK/CTRL_JNT_l_root_FK
+        weight: 1
+      - path: JNT_l_root
+        weight: 1
+      - path: JNT_l_root/JNT_jaw1
+        weight: 1
+      - path: JNT_l_root/JNT_l_eye
+        weight: 1
+      - path: JNT_l_root/JNT_l_eye/Shark_Eye_L
+        weight: 1
+      - path: JNT_l_root/JNT_l_fin1
+        weight: 1
+      - path: JNT_l_root/JNT_l_fin1/JNT_l_fin2
+        weight: 1
+      - path: JNT_l_root/JNT_l_fin1/JNT_l_fin2/JNT_l_fin3
+        weight: 1
+      - path: JNT_l_root/JNT_r_eye
+        weight: 1
+      - path: JNT_l_root/JNT_r_eye/Shark_Eye_R
+        weight: 1
+      - path: JNT_l_root/JNT_r_fin1
+        weight: 1
+      - path: JNT_l_root/JNT_r_fin1/JNT_r_fin2
+        weight: 1
+      - path: JNT_l_root/JNT_r_fin1/JNT_r_fin2/JNT_r_fin3
+        weight: 1
+      - path: JNT_l_root/JNT_tail1
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2/JNT_tail3
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2/JNT_tail3/JNT_tail4
+        weight: 1
+      - path: JNT_l_root/JNT_tail1/JNT_tail2/JNT_tail3/JNT_tail4/JNT_tail5
+        weight: 1
+      - path: Shark
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

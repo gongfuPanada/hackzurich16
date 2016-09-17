@@ -1,0 +1,561 @@
+fileFormatVersion: 2
+guid: aa88464994de5b04597ac6110f2a5960
+timeCreated: 1470748876
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: GEO_medusaHi
+    100002: //RootNode
+    100004: JNT_cap1
+    100006: JNT_cap2
+    100008: JNT_cap3
+    100010: JNT_cap4
+    100012: JNT_centerTail1
+    100014: JNT_centerTail2
+    100016: JNT_centerTail3
+    100018: JNT_centerTail4
+    100020: JNT_outerTail1
+    100022: JNT_outerTail10
+    100024: JNT_outerTail11
+    100026: JNT_outerTail12
+    100028: JNT_outerTail13
+    100030: JNT_outerTail14
+    100032: JNT_outerTail15
+    100034: JNT_outerTail16
+    100036: JNT_outerTail17
+    100038: JNT_outerTail18
+    100040: JNT_outerTail19
+    100042: JNT_outerTail2
+    100044: JNT_outerTail20
+    100046: JNT_outerTail21
+    100048: JNT_outerTail22
+    100050: JNT_outerTail23
+    100052: JNT_outerTail24
+    100054: JNT_outerTail25
+    100056: JNT_outerTail26
+    100058: JNT_outerTail27
+    100060: JNT_outerTail28
+    100062: JNT_outerTail29
+    100064: JNT_outerTail3
+    100066: JNT_outerTail30
+    100068: JNT_outerTail31
+    100070: JNT_outerTail32
+    100072: JNT_outerTail33
+    100074: JNT_outerTail34
+    100076: JNT_outerTail35
+    100078: JNT_outerTail4
+    100080: JNT_outerTail5
+    100082: JNT_outerTail6
+    100084: JNT_outerTail7
+    100086: JNT_outerTail8
+    100088: JNT_outerTail9
+    100090: JNT_root
+    400000: GEO_medusaHi
+    400002: //RootNode
+    400004: JNT_cap1
+    400006: JNT_cap2
+    400008: JNT_cap3
+    400010: JNT_cap4
+    400012: JNT_centerTail1
+    400014: JNT_centerTail2
+    400016: JNT_centerTail3
+    400018: JNT_centerTail4
+    400020: JNT_outerTail1
+    400022: JNT_outerTail10
+    400024: JNT_outerTail11
+    400026: JNT_outerTail12
+    400028: JNT_outerTail13
+    400030: JNT_outerTail14
+    400032: JNT_outerTail15
+    400034: JNT_outerTail16
+    400036: JNT_outerTail17
+    400038: JNT_outerTail18
+    400040: JNT_outerTail19
+    400042: JNT_outerTail2
+    400044: JNT_outerTail20
+    400046: JNT_outerTail21
+    400048: JNT_outerTail22
+    400050: JNT_outerTail23
+    400052: JNT_outerTail24
+    400054: JNT_outerTail25
+    400056: JNT_outerTail26
+    400058: JNT_outerTail27
+    400060: JNT_outerTail28
+    400062: JNT_outerTail29
+    400064: JNT_outerTail3
+    400066: JNT_outerTail30
+    400068: JNT_outerTail31
+    400070: JNT_outerTail32
+    400072: JNT_outerTail33
+    400074: JNT_outerTail34
+    400076: JNT_outerTail35
+    400078: JNT_outerTail4
+    400080: JNT_outerTail5
+    400082: JNT_outerTail6
+    400084: JNT_outerTail7
+    400086: JNT_outerTail8
+    400088: JNT_outerTail9
+    400090: JNT_root
+    4300000: GEO_medusaHi
+    7400000: unfold
+    7400002: contraction
+    7400004: Idle
+    9500000: //RootNode
+    13700000: GEO_medusaHi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: unfold
+      takeName: Take 001
+      firstFrame: 19
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GEO_medusaHi
+        weight: 1
+      - path: JNT_root
+        weight: 1
+      - path: JNT_root/JNT_cap1
+        weight: 1
+      - path: JNT_root/JNT_cap2
+        weight: 1
+      - path: JNT_root/JNT_cap3
+        weight: 1
+      - path: JNT_root/JNT_cap4
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2/JNT_outerTail3
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2/JNT_outerTail3/JNT_outerTail4
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2/JNT_outerTail3/JNT_outerTail4/JNT_outerTail5
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7/JNT_outerTail8
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7/JNT_outerTail8/JNT_outerTail9
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7/JNT_outerTail8/JNT_outerTail9/JNT_outerTail10
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12/JNT_outerTail13
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12/JNT_outerTail13/JNT_outerTail14
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12/JNT_outerTail13/JNT_outerTail14/JNT_outerTail15
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17/JNT_outerTail18
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17/JNT_outerTail18/JNT_outerTail19
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17/JNT_outerTail18/JNT_outerTail19/JNT_outerTail20
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22/JNT_outerTail23
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22/JNT_outerTail23/JNT_outerTail24
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22/JNT_outerTail23/JNT_outerTail24/JNT_outerTail25
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27/JNT_outerTail28
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27/JNT_outerTail28/JNT_outerTail29
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27/JNT_outerTail28/JNT_outerTail29/JNT_outerTail30
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32/JNT_outerTail33
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32/JNT_outerTail33/JNT_outerTail34
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32/JNT_outerTail33/JNT_outerTail34/JNT_outerTail35
+        weight: 1
+      - path: JNT_root/JNT_centerTail1
+        weight: 1
+      - path: JNT_root/JNT_centerTail1/JNT_centerTail2
+        weight: 1
+      - path: JNT_root/JNT_centerTail1/JNT_centerTail2/JNT_centerTail3
+        weight: 1
+      - path: JNT_root/JNT_centerTail1/JNT_centerTail2/JNT_centerTail3/JNT_centerTail4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: contraction
+      takeName: Take 001
+      firstFrame: 49
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GEO_medusaHi
+        weight: 1
+      - path: JNT_root
+        weight: 1
+      - path: JNT_root/JNT_cap1
+        weight: 1
+      - path: JNT_root/JNT_cap2
+        weight: 1
+      - path: JNT_root/JNT_cap3
+        weight: 1
+      - path: JNT_root/JNT_cap4
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2/JNT_outerTail3
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2/JNT_outerTail3/JNT_outerTail4
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2/JNT_outerTail3/JNT_outerTail4/JNT_outerTail5
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7/JNT_outerTail8
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7/JNT_outerTail8/JNT_outerTail9
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7/JNT_outerTail8/JNT_outerTail9/JNT_outerTail10
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12/JNT_outerTail13
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12/JNT_outerTail13/JNT_outerTail14
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12/JNT_outerTail13/JNT_outerTail14/JNT_outerTail15
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17/JNT_outerTail18
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17/JNT_outerTail18/JNT_outerTail19
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17/JNT_outerTail18/JNT_outerTail19/JNT_outerTail20
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22/JNT_outerTail23
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22/JNT_outerTail23/JNT_outerTail24
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22/JNT_outerTail23/JNT_outerTail24/JNT_outerTail25
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27/JNT_outerTail28
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27/JNT_outerTail28/JNT_outerTail29
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27/JNT_outerTail28/JNT_outerTail29/JNT_outerTail30
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32/JNT_outerTail33
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32/JNT_outerTail33/JNT_outerTail34
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32/JNT_outerTail33/JNT_outerTail34/JNT_outerTail35
+        weight: 1
+      - path: JNT_root/JNT_centerTail1
+        weight: 1
+      - path: JNT_root/JNT_centerTail1/JNT_centerTail2
+        weight: 1
+      - path: JNT_root/JNT_centerTail1/JNT_centerTail2/JNT_centerTail3
+        weight: 1
+      - path: JNT_root/JNT_centerTail1/JNT_centerTail2/JNT_centerTail3/JNT_centerTail4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: crvUpForce
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 0.44250512
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 0.56393784
+            value: 4.1784034
+            inSlope: 24.904171
+            outSlope: 24.904171
+            tangentMode: 0
+          - time: 0.7645547
+            value: 4.4542265
+            inSlope: -11.39346
+            outSlope: -11.39346
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 3
+          postInfinity: 3
+          rotationOrder: 0
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: GEO_medusaHi
+        weight: 1
+      - path: JNT_root
+        weight: 1
+      - path: JNT_root/JNT_cap1
+        weight: 1
+      - path: JNT_root/JNT_cap2
+        weight: 1
+      - path: JNT_root/JNT_cap3
+        weight: 1
+      - path: JNT_root/JNT_cap4
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2/JNT_outerTail3
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2/JNT_outerTail3/JNT_outerTail4
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail1/JNT_outerTail2/JNT_outerTail3/JNT_outerTail4/JNT_outerTail5
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7/JNT_outerTail8
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7/JNT_outerTail8/JNT_outerTail9
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail6/JNT_outerTail7/JNT_outerTail8/JNT_outerTail9/JNT_outerTail10
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12/JNT_outerTail13
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12/JNT_outerTail13/JNT_outerTail14
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail11/JNT_outerTail12/JNT_outerTail13/JNT_outerTail14/JNT_outerTail15
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17/JNT_outerTail18
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17/JNT_outerTail18/JNT_outerTail19
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail16/JNT_outerTail17/JNT_outerTail18/JNT_outerTail19/JNT_outerTail20
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22/JNT_outerTail23
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22/JNT_outerTail23/JNT_outerTail24
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail21/JNT_outerTail22/JNT_outerTail23/JNT_outerTail24/JNT_outerTail25
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27/JNT_outerTail28
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27/JNT_outerTail28/JNT_outerTail29
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail26/JNT_outerTail27/JNT_outerTail28/JNT_outerTail29/JNT_outerTail30
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32/JNT_outerTail33
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32/JNT_outerTail33/JNT_outerTail34
+        weight: 1
+      - path: JNT_root/JNT_cap4/JNT_outerTail31/JNT_outerTail32/JNT_outerTail33/JNT_outerTail34/JNT_outerTail35
+        weight: 1
+      - path: JNT_root/JNT_centerTail1
+        weight: 1
+      - path: JNT_root/JNT_centerTail1/JNT_centerTail2
+        weight: 1
+      - path: JNT_root/JNT_centerTail1/JNT_centerTail2/JNT_centerTail3
+        weight: 1
+      - path: JNT_root/JNT_centerTail1/JNT_centerTail2/JNT_centerTail3/JNT_centerTail4
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
