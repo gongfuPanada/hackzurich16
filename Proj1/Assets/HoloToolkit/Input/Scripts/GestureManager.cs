@@ -158,6 +158,9 @@ namespace HoloToolkit.Unity
             {
                 Debug.Log("foo");
                 FocusedObject.SendMessage("OnSelect");
+
+                GetComponent<NavMeshAgent>().SetDestination(GazeManager.Instance.Position);
+
             }
         }
 

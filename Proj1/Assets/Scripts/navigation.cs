@@ -13,7 +13,6 @@ void Start () {
 
     public void OnSelect()
     {
-        GetComponent<NavMeshAgent>().SetDestination(GazeManager.Instance.Position);
 
     }
 
